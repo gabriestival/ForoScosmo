@@ -1,7 +1,7 @@
 # ForoScosmo
 Foro de preguntas y respuestas de temas en General.
 # Foro de Preguntas y Respuestas de tripleS
-!(https://th.bing.com/th/id/OIP.DRCuWf6ovk9Lr5b87LL3ngHaHa?rs=1&pid=ImgDetMain)
+(https://th.bing.com/th/id/OIP.DRCuWf6ovk9Lr5b87LL3ngHaHa?rs=1&pid=ImgDetMain)
 ## Descripción
 
 Este proyecto es un foro de preguntas y respuestas dedicado a tripleS (siendo util como ejemplo). Los usuarios pueden registrarse, iniciar sesión, hacer preguntas y responder a las preguntas de otros usuarios. El objetivo principal es crear una comunidad activa y participativa en torno a este grupo de K-pop.
